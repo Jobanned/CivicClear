@@ -1,0 +1,8 @@
+{
+  "name": "CivicClear",
+  "description": "CivicClear is an empathetic, high-accountability housing and grant navigator that parses citizens' real-life situations into visual assistance roadmaps governed by human caseworkers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
